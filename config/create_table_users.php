@@ -6,3 +6,5 @@ $resultado = $conexion->multi_query($sql);
 if($resultado){
     echo ' aplicacion instalada con exito';
 }
+$conexion->close();
+?>

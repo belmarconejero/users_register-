@@ -1,4 +1,4 @@
-
+<div class="container">
 <div class="table-responsive">
 <table class="table table-dark table-sm table-bordered">
   <thead>
@@ -35,3 +35,4 @@ for($i=0;$i<count($filas);$i++){
   </tbody>
 </table>
 </div> 
+</div>
